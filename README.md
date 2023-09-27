@@ -16,4 +16,13 @@ The data was then exported to excel. However, because it was a .txt file, It nee
 The data was cleaned by initially creating new columns and the data was separated into the 'Name', 'Date', 'Day', 'Month', 'Time', and 'Chat' Columns. I ensured the table was devoid of blank cells and errors and screened the data for duplicates.
 
 ## Data Analysis and Visualization
+Power Bi was used for the visualization
+![](https://github.com/Sochima23/Eximous-Whatsapp-Chat-Analysis/blob/main/Screenshot%20(65).png)
+
+## Result
+* The total number of participants are 149
+* The most active members on the group are Sandra, Joy, and Hope
+* The total number of messages between July 2021 and August 2023 were 19000
+* The most active time of the day is between 9.11pm and 9.18pm
+* The most active day and month are Tuesday and August, respectively
 
