@@ -8,12 +8,13 @@ Total number of participants on the group, Most active members on the group?, To
 
 ## Data Collection
 Data was collected from whatsapp by opening the WhatsApp group to be analyzed and clicking on the three dots at the topmost right-hand corner of the app, then clicking on more. Finally, I exported the chat by selecting without media. The data collected was a .txt file.
-
+![](https://github.com/Sochima23/Eximous-Whatsapp-Chat-Analysis/blob/main/Screenshot%20(66).png)
 ## Data Preparation
 The data was then exported to excel. However, because it was a .txt file, It needed to be converted to a structured format. This was done using Excel Power Query by transforming the data into rows and columns.
 
 ## Data Transformatiom
 The data was cleaned by initially creating new columns and the data was separated into the 'Name', 'Date', 'Day', 'Month', 'Time', and 'Chat' Columns. I ensured the table was devoid of blank cells and errors and screened the data for duplicates.
+![](https://github.com/Sochima23/Eximous-Whatsapp-Chat-Analysis/blob/main/Screenshot%20(67).png)
 
 ## Data Analysis and Visualization
 Power Bi was used for the visualization
